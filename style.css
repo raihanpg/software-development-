@@ -1,0 +1,70 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 0;
+    padding: 20px;
+}
+
+/* Heading */
+h1 {
+    color: #444;
+    text-align: center;
+}
+
+/* Paragraph */
+p {
+    font-size: 1.1em;
+    line-height: 1.6;
+}
+
+/* Form */
+form {
+    background: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    max-width: 400px;
+    margin: 20px auto;
+}
+
+label {
+    display: block;
+    margin-bottom: 8px;
+}
+
+input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+button {
+    background-color: #5c67f2;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #4a54e1;
+}
+
+/* List */
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    background: #fff;
+    margin-bottom: 10px;
+    padding: 10px;
+    border-radius: 4px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+}
