@@ -1,4 +1,3 @@
-/* General Styles */
 body {
     font-family: Arial, sans-serif;
     background-color: #f4f4f4;
@@ -7,19 +6,16 @@ body {
     padding: 20px;
 }
 
-/* Heading */
 h1 {
     color: #444;
     text-align: center;
 }
 
-/* Paragraph */
 p {
     font-size: 1.1em;
     line-height: 1.6;
 }
 
-/* Form */
 form {
     background: #fff;
     padding: 20px;
@@ -55,7 +51,6 @@ button:hover {
     background-color: #4a54e1;
 }
 
-/* List */
 ul {
     list-style-type: none;
     padding: 0;
